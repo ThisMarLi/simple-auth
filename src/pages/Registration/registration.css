@@ -1,0 +1,37 @@
+.registration {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+
+.registration-form {
+  max-width: 500px;
+  width: 100%;
+  padding: 40px;
+  background: #fff;
+  box-shadow: 0 10px 34px -15px rgb(0 0 0 / 24%);
+  border-radius: 5px;
+  margin: auto;
+}
+
+.registration-form--header {
+  margin-bottom: 30px;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.registration-form--error {
+  color: #b53f3f;
+  margin-bottom: 20px;
+}
+
+.registration-form--button {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.registration-form--link {
+  border-bottom: 1px solid #e79686;
+  margin-left: 5px;
+}

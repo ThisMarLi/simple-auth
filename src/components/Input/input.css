@@ -1,0 +1,25 @@
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 10px 12px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #191919;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  appearance: none;
+  border-radius: 6px;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.form-control:focus {
+  outline: none;
+  border-color: #e79686;
+}
+
+.form-control--error{
+  border-color: #b53f3f;
+}
