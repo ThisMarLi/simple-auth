@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-auth/static/css/main.4866a1fb.css",
+    "main.js": "/simple-auth/static/js/main.9e01896b.js",
+    "index.html": "/simple-auth/index.html",
+    "main.4866a1fb.css.map": "/simple-auth/static/css/main.4866a1fb.css.map",
+    "main.9e01896b.js.map": "/simple-auth/static/js/main.9e01896b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4866a1fb.css",
+    "static/js/main.9e01896b.js"
+  ]
+}
